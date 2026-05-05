@@ -31,23 +31,26 @@ Indian banks and fintech companies lose thousands of crores annually to payment 
 - **Desktop/Laptop** devices showed higher fraud rates than mobile devices
 - **Investigation funnel** revealed only a small percentage of flagged cases reach resolution — pipeline inefficiency identified
 
-## 📋 Project Structure
+## 📁 Project Structure
+
+```
 pulse-of-payments/
 ├── data/
-│   ├── india_payments_raw.csv
-│   ├── india_payments_clean.csv
-│   └── payments_india.db
+│   ├── india_payments_raw.csv      # Raw generated dataset
+│   ├── india_payments_clean.csv    # Cleaned dataset
+│   └── payments_india.db           # SQLite database
 ├── notebooks/
-│   └── 01_generate_dataset.ipynb
+│   └── 01_generate_dataset.ipynb  # Python analysis notebook
 ├── sql/
-│   └── fraud_analysis.sql
+│   └── fraud_analysis.sql          # 7 advanced SQL queries
 ├── outputs/
 │   ├── chart1_fraud_overview.png
 │   ├── chart2_investigation_funnel.png
 │   ├── chart3_geographic_trends.png
 │   └── Pulse_of_Payments_Business_Report.xlsx
 └── powerbi/
-└── Pulse_of_Payments_Dashboard.pbix
+    └── Pulse_of_Payments_Dashboard.pbix
+```
 
 ## 📈 Power BI Dashboard Pages
 1. **Executive Overview** — KPI cards, fraud by payment method, monthly trend
