@@ -73,5 +73,4 @@ pulse-of-payments/
 4. Create targeted awareness programs for high-risk age groups
 5. Improve investigation pipeline to increase case resolution rate
 
-## 📄 Resume Description
-> "Built an end-to-end fraud intelligence system analyzing 50,000 Indian digital payment transactions (UPI, Credit Card, Net Banking). Engineered a realistic synthetic dataset, performed advanced SQL analytics with window functions and RANK(), built a 5-page Power BI dashboard with investigation funnel analysis, and delivered an Excel business report with fraud rule recommendations. Dashboard live on Power BI Service."
+
