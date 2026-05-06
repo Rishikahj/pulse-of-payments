@@ -1,7 +1,7 @@
 # 💳 Pulse of Payments — India Digital Payment Fraud Intelligence
 
-## 🔗 Live Dashboard
-[👉 Click here to view live interactive Power BI dashboard](YOUR_POWERBI_LINK_HERE)
+## 🚀 Live Dashboard
+https://pulse-of-payments19.streamlit.app
 
 ## 🎯 Business Problem
 Indian banks and fintech companies lose thousands of crores annually to payment fraud. Fraud teams cannot manually monitor every transaction. This project builds a **Fraud Intelligence & Risk Analytics System** that identifies exactly when, where, and how fraud happens across Indian digital payment channels.
