@@ -10,13 +10,15 @@ Indian banks and fintech companies lose thousands of crores annually to payment 
 **Full Stack Data Analytics Project** — End-to-end pipeline from data engineering to live dashboard deployment.
 
 ## 🛠️ Tools Used
+
 | Tool | Purpose |
-|---|---|
-| Python (Pandas, Matplotlib, Seaborn) | Data generation, cleaning, EDA |
+|------|----------|
+| Python (Pandas, Plotly, Streamlit) | Data analysis, visualization, live dashboard |
 | SQL (SQLite) | Advanced analytics queries |
-| Power BI | 5-page interactive dashboard |
-| Excel | Business report with recommendations |
-| GitHub | Version control and documentation |
+| Power BI | Interactive business intelligence dashboard |
+| Excel | Business reporting and recommendations |
+| Streamlit Cloud | Live dashboard deployment |
+| GitHub | Version control and project documentation |
 
 ## 📁 Dataset
 - **Type:** Synthetic Indian payment dataset engineered using Python
